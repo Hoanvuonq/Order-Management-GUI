@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+:root {
+    --green: #4CAF50;
+    --white: #fff;
+
+}
+
+body {
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--white);
+}
