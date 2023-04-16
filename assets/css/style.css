@@ -39,17 +39,13 @@
     background: var(--white);
 }
 
-.footer-title-li {
+.footer-title{
     font-family: inherit;
-    font-size: 11px;
+    font-size: 14px;
     color: #fff;
-}
-
-
-
-.navigation ul li:nth-child(7) {
-    margin-top: 200px;
-    pointer-events: none;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
 }
 
 .logo {
